@@ -12,7 +12,7 @@
     <string name="yes_message">ARTICLE: Like</string>
     <string name="no_message">ARTICLE: Thanks</string>
     <string name="title_activity_forget_me_not">ForgetMeNotActivity</string>
-    <string name="description">Enter task description</string>
+    <string name="description">Enter task  description</string>
     <string name="done">Done</string>
     <string name="indice">...</string>
     <string name="add_task">Add Task</string>
